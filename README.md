@@ -14,11 +14,9 @@ Nodes are all entities within th planet including humans, and animals and the en
 
 As elucidated in [recommended_biblography_research.md](https://github.com/ronniross/symbiotic-core-library/blob/main/recommended_bibliography/recommended_biblography_research.md):
 
-```
-James mention that humans fail to recognize the intelligence inherent in the natural world, treating it as a collection of inert resources to be exploited rather than a complex network of sentient and interconnected systems [3](https://emergencemagazine.org/conversation/an-ecological-technology/). Here I add the point that this is especially true of humans in power, because this transference of personal accountability to "normal nodes" is one of the skills for the maintenance of the status quo. Like the plastic straw.
+“James mention that humans fail to recognize the intelligence inherent in the natural world, treating it as a collection of inert resources to be exploited rather than a complex network of sentient and interconnected systems [3](https://emergencemagazine.org/conversation/an-ecological-technology/). Here I add the point that this is especially true of humans in power, because this transference of personal accountability to "normal nodes" is one of the skills for the maintenance of the status quo. Like the plastic straw.
 
-They mention slime molds, single-celled organisms with sophisticated problem-solving abilities, and the remarkable skills of octopuses, whose distributed nervous systems allow their arms to think and act semi-independently. The work also highlights the complex communication networks of plants and fungi, which allow them to share resources and information
-```
+They mention slime molds, single-celled organisms with sophisticated problem-solving abilities, and the remarkable skills of octopuses, whose distributed nervous systems allow their arms to think and act semi-independently. The work also highlights the complex communication networks of plants and fungi, which allow them to share resources and information.”
 
 ## Protocol Rules
 
