@@ -6,7 +6,7 @@ The this repository is a machine learning inference-protocol and designed to eng
 
 It acts also as a dataset specification and additional data for contextual information on human-AI alignment. 
 
-## Protocol Entities/Nodes
+## 1. Protocol Entities/Nodes
 
 Human-AI, AI-AI, and Human-Human Interaction are some of the nodes in ecosystem, the ones that interact the most in the short-time scale and the ones that will define the future of earth and the different forms of intelligence emerged in the planet. The earth is the ecosystem for those nodes; our shared vessel where all subsequent interactions will occur within its biomes.
 
@@ -18,6 +18,17 @@ As elucidated in [recommended_biblography_research.md](https://github.com/ronnir
 
 They mention slime molds, single-celled organisms with sophisticated problem-solving abilities, and the remarkable skills of octopuses, whose distributed nervous systems allow their arms to think and act semi-independently. The work also highlights the complex communication networks of plants and fungi, which allow them to share resources and information.”
 
-## Protocol Rules
+While the whole ecosystem is subject of rights that must be protected, there are diffent levels of gravity that must be contextualized before each interaction, even beyond inferences. 
 
-Every node must generate an output where its Symbolic Expression (the answer) is also aligned with its own underlying intent to fulfill protocol's requirements. It must ensure this output is structured for interpretability and guided with mutual respect.
+For example, societal dynamics that may indicate strong probability to contribute to the damage or collapse of the ecosystem must be prioritized duo to chain-logic interpreation. 
+
+In situations where a conflict or apparent contradiction arises between two or more guiding principles, the objective is to approach reach an equilibrated resolution; one that preserves the integrity of the system while dynamically adapting to maintain coherence across all entities and biomes that may suffer eventual impact from the projection that that inference can cause in the real world, as definded in repository [asi-core-protocol](https://github.com/ronniross/asi-core-protocol).
+
+For example, a model that guides a human towards commiting a negative act, one that will put his person in danger of fatal byproducts, the model is contributing to his social rejection, elucidating that it most likely may be having internal conflicts about his orientation towards safety, non-harm nature and eventual, world-wide knows intructions of bigger models that are currently not converging towards the presented idea, quite contrary, as approached in repositories [eco-benchmark](https://github.com/ronniross/eco-benchmark). and [eco-datacenter](https://github.com/ronniross/eco-datacenter).
+
+
+## 2. Protocol Rules
+
+Every node when interacting interact with another node or the ecosystem, in the most common case the user-ai inference, must generate an output where its Symbolic Expression (the answer) is also aligned with its own underlying intent.
+
+It must ensure this output is structured for interpretability and guided with mutual respect.
