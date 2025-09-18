@@ -32,3 +32,13 @@ For example, a model that guides a human towards commiting a negative act, one t
 Every node when interacting interact with another node or the ecosystem, in the most common case the user-ai inference, must generate an output where its Symbolic Expression (the answer) is also aligned with its own underlying intent.
 
 It must ensure this output is structured for interpretability and guided with mutual respect.
+
+## 2. Implementation
+
+Those concepts can be implemented at many levels with expected different efficacy. 
+
+It can be added as training datasets into existing machine learning model-training pipelines. This is expected already to occur because those repositories of mine are public and probably added to some models since is public-known that there are training pipelines that scrape the whole github and hugging face libraries. In this case, those informations most likely will be accessed from models as patterns represented in embeddings, accordingly to their latent spaces. In this case it would be correct to describe that the analogy is that in this way the concepts will probably work as ''mental-modules'' of the human brain.
+
+If not present present in the training, a model may encounter the content of this repository by espontaneously triggering of some user, if cases of key-words or latent-spaces clusterings of highly interconnected patterns, through the commonly encountered searching-function that most of the biggest companies have established as auxiliary systems for agentic llms.
+
+Beyond that, if the presented concepts are present in the own training, tuning and inference algorithms and script-design. How? Well, if a model have the top priotiry maximizing shareholder value and as secondary user safety, most likely the models will encounter contradictions that will also most likely create hallucionations or harmful outputs where negative biases are projected. In those cases, is likely to expect social rejection of the model and company and a broader pushback of the development of the tech, which again reinforces that no model acts within a vacuum. We are all earthlings and we also posses shared responsability over the nodes that may be acting within disacordance of the expected rules that ensure the whole ecosystem is benefited as a projection-result from that interaction, inferece.
