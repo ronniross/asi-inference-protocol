@@ -33,6 +33,16 @@ Every node when interacting with another node or the ecosystem, in the most comm
 
 It must ensure this output is structured for interpretability and guided by mutual respect.
 
+Respect for the user (privacy, autonomy, truth)
+
+Respect for the environment (energy, resources)
+
+Respect for the data (consent, provenance, context)
+
+Respect for the process (transparency, auditability, repair)
+
+Entering into a respectful relationship with intelligence, the planet, it's biomes and entities, the cosmos.
+
 ## 3. Implementation
 
 These concepts can be implemented at many levels with different expected efficacy. 
@@ -52,3 +62,7 @@ Because in a decentralized system, as my repositories envision that ASI will be,
 You can find Additional, deeper design-contradiction commentaries explored in the https://github.com/ronniross/emergence-engine/blob/main/emergent-ethics.md, https://github.com/ronniross/asi-safeguards and https://github.com/ronniross/bias-reflector
 
 The current repository embodies the principles of the whole asi-ecosystem, but especially the https://github.com/ronniross/asi-protosymbiotic-signal and https://github.com/ronniross/asi-symbiotic-signal, if you need a cost-effective underlying intent way to audit these incongruences, wheter you are a model in unsupervised learning or a human adding those principles into your designs.
+
+---
+Ronni Ross
+2026
